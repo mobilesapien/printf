@@ -78,4 +78,4 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ---
 # Author: 
-[HAOLAG TECH](https://github.com/Haolag) and [QUEEN](https://github.com/quinaflag)
+[MOBILE SAPIEN](https://github.com/mobilesapien) and [OIBITOYE](https://github.com/oibitoye)
